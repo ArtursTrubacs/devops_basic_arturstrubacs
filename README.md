@@ -1,2 +1,2 @@
-# devops_basic_arturstrubacs
-DevOps pamati iesācējiem
+# DevOps repozitorijs 
+Artūra Trubača DevOps repozitorijs pamati iesācējiem
